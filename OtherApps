@@ -1,0 +1,13 @@
+{
+    "name": "OtherApps-PrivacyAllist",
+    "description": "[ Version ]\n24/12/24 (v1)\n\n[ Github ]\nhttps://github.com/jaeone22/PrivacyAllist",
+    "denied-remote-domains": [
+      "ingest.us.sentry.io",
+      "reports.crashlytics.com",
+      "in.appcenter.ms",
+      "api.mixpanel.com",
+      "api.amplitude.com",
+      "api.instabug.com",
+      "api.segment.io"
+    ]
+}
