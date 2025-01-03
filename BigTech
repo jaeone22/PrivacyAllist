@@ -7,11 +7,7 @@
       "adobedc.demdex.net",
       "ads-api.twitter.com",
       "analytics.twitter.com",
-      "graph.facebook.com",
-      "connect.facebook.net",
-      "ads.instagram.com",
       "pagead2.googlesyndication.com",
-      "googleads.g.doubleclick.net",
       "ssl.google-analytics.com",
       "analytics.google.com",
       "adssettings.google.com",
@@ -24,15 +20,6 @@
       "push.services.mozilla.com",
       "snippets.cdn.mozilla.net",
       "content-signature-2.cdn.mozilla.net",
-      "normandy.cdn.mozilla.net",
-      "vortex.data.microsoft.com",
-      "telemetry.microsoft.com",
-      "oca.telemetry.microsoft.com",
-      "settings-win.data.microsoft.com",
-      "browser.events.data.msn.com",
-      "nexusrules.officeapps.live.com",
-      "web.vortex.data.microsoft.com",
-      "watson.telemetry.microsoft.com",
-      "sqm.telemetry.microsoft.com"
+      "normandy.cdn.mozilla.net"
     ]
 }
