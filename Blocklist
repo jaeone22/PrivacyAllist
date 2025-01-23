@@ -2,6 +2,7 @@
     "name": "PrivacyAllist",
     "description": "[ Version ]\n25/01/23 (v3)\n\n[ Github ]\nhttps://github.com/jaeone22/PrivacyAllist",
     "denied-remote-domains": [
+        "OOOOO-Systems-OOOOO.example.com",
         "nmetrics.samsung.com",
         "insights.samsung.com",
         "analytics.samsungknox.com",
@@ -48,9 +49,8 @@
         "spynet2.microsoft.com",
         "spynetalt.microsoft.com",
         "onecollector.cloudapp.aria.akadns.net",
-        "prod.nexusrules.live.com.akadns.net"
-    ],
-    "denied-remote-domains": [
+        "prod.nexusrules.live.com.akadns.net",
+        "OOOOO-OtherApps-OOOOO.example.com",
         "ingest.us.sentry.io",
         "reports.crashlytics.com",
         "in.appcenter.ms",
@@ -62,9 +62,8 @@
         "api2.amplitude.com",
         "statsd.hostedgraphite.com",
         "akamaihd.net",
-        "dscw27.akamai.net"
-    ],
-    "denied-remote-domains": [
+        "dscw27.akamai.net",
+        "OOOOO-BigTech-OOOOO.example.com",
         "metrics.adobe.com",
         "dpm.demdex.net",
         "adobedc.demdex.net",
