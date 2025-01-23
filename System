@@ -1,5 +1,5 @@
 {
-    "name": "OperatingSystem-PrivacyAllist",
+    "name": "System--PrivacyAllist",
     "description": "[ Version ]\n24/12/24 (v1)\n\n[ Github ]\nhttps://github.com/jaeone22/PrivacyAllist",
     "denied-remote-domains": [
         "nmetrics.samsung.com",
