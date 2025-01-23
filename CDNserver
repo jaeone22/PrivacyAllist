@@ -1,0 +1,8 @@
+{
+    "name": "CDNserver--PrivacyAllist",
+    "description": "[ Version ]\n25/01/23 (v1)\n\n[ Github ]\nhttps://github.com/jaeone22/PrivacyAllist",
+    "denied-remote-domains": [
+        "akamaihd.net",
+        "dscw27.akamai.net"
+    ]
+}
