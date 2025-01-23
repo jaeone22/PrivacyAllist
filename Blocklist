@@ -49,7 +49,7 @@
         "spynetalt.microsoft.com",
         "onecollector.cloudapp.aria.akadns.net",
         "prod.nexusrules.live.com.akadns.net"
-    ]
+    ],
     "denied-remote-domains": [
         "ingest.us.sentry.io",
         "reports.crashlytics.com",
@@ -63,7 +63,7 @@
         "statsd.hostedgraphite.com",
         "akamaihd.net",
         "dscw27.akamai.net"
-    ]
+    ],
     "denied-remote-domains": [
         "metrics.adobe.com",
         "dpm.demdex.net",
