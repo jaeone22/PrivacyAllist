@@ -1,8 +1,8 @@
 # Blocklists
 
-### OperatingSystem
+### System
 - Blocks tracking built into the operating system
-- ```https://github.com/jaeone22/PrivacyAllist/raw/refs/heads/main/OperatingSystem```
+- ```https://github.com/jaeone22/PrivacyAllist/raw/refs/heads/main/System```
 
 ### OtherApps
 - Blocks tracking and diagnostic data collection used by many apps
