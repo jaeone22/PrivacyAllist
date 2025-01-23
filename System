@@ -1,6 +1,6 @@
 {
     "name": "System--PrivacyAllist",
-    "description": "[ Version ]\n24/12/24 (v1)\n\n[ Github ]\nhttps://github.com/jaeone22/PrivacyAllist",
+    "description": "[ Version ]\n25/01/23 (v2)\n\n[ Github ]\nhttps://github.com/jaeone22/PrivacyAllist",
     "denied-remote-domains": [
         "nmetrics.samsung.com",
         "insights.samsung.com",
