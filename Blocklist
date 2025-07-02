@@ -1,6 +1,6 @@
 {
     "name": "PrivacyAllist",
-    "description": "[ Version ]\n25/06/08 (v5)\n\n[ Github ]\nhttps://github.com/jaeone22/PrivacyAllist",
+    "description": "[ Version ]\n25/07/02 (v6)\n\n[ Github ]\nhttps://github.com/jaeone22/PrivacyAllist",
     "denied-remote-domains": [
         "-----------------------------------------------SAMSUNG.example.com",
         "nmetrics.samsung.com",
@@ -30,8 +30,9 @@
         "cssubmissions.apple.com",
         "fba.apple.com",
         "ocsp.digicert.cn",
-        "*.apzones.com",
-        "*.icloud.com.cn",
+        "apzones.com",
+        "icloud.com.cn",
+        "analytics.apple.com",
         "-----------------------------------------------MICROSOFT.example.com",
         "vortex-win.data.microsoft.com",
         "vortex.data.microsoft.com",
